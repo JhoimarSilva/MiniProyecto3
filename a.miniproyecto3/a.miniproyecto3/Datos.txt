@@ -1,0 +1,27 @@
+si * ff * 555 * CEDULA CIUDADANA * HOMBRE * 55 * tu * tt * ttt * 55
+fff * ff * 344 * CEDULA CIUDADANA * HOMBRE * 33 * fdfd * df * fdf * 33
+ggg * gg * 555 * CEDULA CIUDADANA * HOMBRE * 55 * gfg * gg * gg * 66
+ggg * ggg * 555 * CEDULA CIUDADANA * HOMBRE * 555 * gg * ggg * ggg * 444
+ggg * ggg * 455 * CEDULA CIUDADANA * HOMBRE * 55 * tgg * ggg * gg * 55
+david * chamorro * 1234 * 1234 * test * test * test * 1234 * HOMBRE * CedulaCiudadania
+david * chamorro * 1234 * 1 * test * test * test * 1 * HOMBRE * CedulaCiudadania
+test * test * 1234 * 1081999 * test * test * test * 1234 * HOMBRE * CedulaCiudadania
+name * lastname * 1234 * 1081999 * dir * bar * email * 305 * HOMBRE * CedulaCiudadania
+si * ss * 444 * 44 * fff * fff * fff * 444 * HOMBRE * CedulaCiudadania
+MARIA * SI * 555 * 555 * GFFG * FFG * FGF * 44 * HOMBRE * CedulaCiudadania
+MARIA * DDD * 44 * 44 * FFF * FF * FF * 4 * HOMBRE * CedulaCiudadania
+PABLO * FFF * 55 * 55 * FFF * FFF * FF * 44 * HOMBRE * CedulaCiudadania
+JUAN * ggg * 123 * 444 * fff * fff * ffff * 345 * HOMBRE * CedulaCiudadania
+UAn * ggf * 123 * 444 * hh * fgg * hhh * 123 * HOMBRE * CedulaCiudadania
+JUAN * ddd * 123 * 333 * fff * gff * fff * 12 * HOMBRE * CedulaCiudadania
+JUAN * jddd * 123 * 222 * dfgf * fgg * fgfg * 111 * HOMBRE * CedulaCiudadania
+JUAN * fff * 123 * 555 * gggg * ggg * ggg * 444 * HOMBRE * CedulaCiudadania
+Juan * sddd * 444 * 444 * ggg * gg * ggg * 444 * HOMBRE * CedulaCiudadania
+maria * fggg * 122 * 555 * hgh * gh * hghg * 444 * HOMBRE * CedulaCiudadania
+maria * fgfg * 56 * 565 * ytgh * hhg * ghgh * 123 * HOMBRE * CedulaCiudadania
+JUAN * jkfj * 123 * 444 * ff * fff * fff * 111 * HOMBRE * CedulaCiudadania
+JUAN * fff * 123 * 444 * fgf * gffg * fggffg * 111 * HOMBRE * CedulaCiudadania
+JUAN * fdd * 123 * 444 * fff * fff * fff * 111 * HOMBRE * CedulaCiudadania
+JUAN * LOPEZ * 123 * 111 * CALLE * AV * juan@h * 222 * HOMBRE * CedulaCiudadania
+JUAN * LOPEZ * 123 * 444 * CALLE * ARBOL * juan@ * 222 * HOMBRE * CedulaCiudadania
+prueba * aver * 1067591 * 2 * direccion * a * a * 3 * HOMBRE * CedulaCiudadania
